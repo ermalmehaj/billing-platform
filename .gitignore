@@ -1,0 +1,12 @@
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Local config and secrets
+.env
+*.local.properties
