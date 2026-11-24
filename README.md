@@ -2,7 +2,7 @@
 
 A billing and receivables platform for a fictional utility company. It bills customers, takes payments, charges interest and penalties on late balances, runs installment plans, handles disputes, and exchanges data with outside systems.
 
-All data is synthetic. The system is built from scratch as a learning and portfolio project.
+All data is synthetic. The domain model draws on years of building billing and receivables systems for public-sector clients.
 
 ## Stack
 
